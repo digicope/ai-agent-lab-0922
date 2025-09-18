@@ -1,1 +1,1 @@
-### 02_OpenAI API 고급 활용
+### 02_OpenAI API 고급 활용 
