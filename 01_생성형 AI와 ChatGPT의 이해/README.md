@@ -13,12 +13,15 @@ https://platform.openai.com/docs/pricing
 #### [3] Prompt Engineering Guide <br>
 https://www.promptingguide.ai/kr/techniques
 
-
 <br>
 
-#### [4] Claude API 키 발급 <br>
+#### [4] Claude AI  <br>
+https://claude.ai/
+<br>
+
+#### [5] Claude API 키 발급 <br>
 https://console.anthropic.com/
 <br>
 
-#### [5] Claude 문서 <br>
+#### [6] Claude 문서 <br>
 https://docs.claude.com/en/docs/get-started
