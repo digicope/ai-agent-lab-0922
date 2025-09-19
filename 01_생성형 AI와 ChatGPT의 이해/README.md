@@ -9,3 +9,14 @@ https://platform.openai.com/
 
 #### [2] Prompt Engineering Guide <br>
 https://www.promptingguide.ai/kr/techniques
+
+
+<br>
+
+#### [3] Claude API 키 발급 <br>
+https://console.anthropic.com/
+
+<br>
+
+#### [4] Claude 문서 <br>
+https://docs.claude.com/en/docs/get-started
