@@ -30,11 +30,6 @@ https://docs.claude.com/en/docs/get-started
 #### [7] Perplexity AI  <br>
 https://www.perplexity.ai/
 <br>
-
-#### [8] DeepSeek AI  <br>
-https://www.deepseek.com/en
-<br>
-
-#### [9] DeepSeek API 키 발급 <br>
+#### [8] DeepSeek API 키 발급 <br>
 https://platform.deepseek.com/
 <br>
