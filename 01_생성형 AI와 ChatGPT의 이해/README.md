@@ -25,3 +25,8 @@ https://console.anthropic.com/
 
 #### [6] Claude 문서 <br>
 https://docs.claude.com/en/docs/get-started
+<br>
+
+#### [7] Perplexity AI  <br>
+https://www.perplexity.ai/
+<br>
