@@ -33,3 +33,9 @@ https://www.perplexity.ai/
 #### [8] DeepSeek API 키 발급 <br>
 https://platform.deepseek.com/
 <br>
+
+#### [9] Gemini 사이트 <br>
+https://gemini.google.com/
+
+#### [10] Gemini API 사이트 <br>
+https://aistudio.google.com/
