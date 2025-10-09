@@ -13,25 +13,3 @@ https://docs.cursor.com/en/welcome <br>
 https://forum.cursor.com/   <br>
 
 
-### LLM 관련 URL
-
-- OpenAI API platform 사이트 <br>
-https://platform.openai.com/ <br>
-
-- ChatGPT 사이트 <br>
-https://chatgpt.com/
-
-- Claude 사이트 <br>
-https://claude.ai/
-
-- Claude API사이트 <br>
-https://console.anthropic.com/
-
-- Gemini 사이트 <br>
-https://gemini.google.com/
-
-- Gemini API 사이트 <br>
-https://aistudio.google.com/
-
-- 프롬프트 엔지니어링 가이드 <br>
-https://www.promptingguide.ai/kr
