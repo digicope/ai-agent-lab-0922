@@ -2,6 +2,7 @@
 
 #### LangChain 1.0 버전 릴리즈 :
 https://docs.langchain.com/oss/python/releases/langchain-v1
+
 <br>
 
 ```
