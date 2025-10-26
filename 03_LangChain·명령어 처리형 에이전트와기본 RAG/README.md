@@ -1,6 +1,7 @@
 ### 03_LangChain·명령어 처리형 에이전트와기본 RAG
 
-#### LangChain 1.0 버전 릴리즈 : https://docs.langchain.com/oss/python/releases/langchain-v1
+#### LangChain 1.0 버전 릴리즈 : <br>
+https://docs.langchain.com/oss/python/releases/langchain-v1
 <br>
 
 ```
